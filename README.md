@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install enejakingsley_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+EnejaKingsleyViewTool::Renderer.copyright 'Eneja Kingsley', 'All rights reserved'
+```
 
 ## Development
 
